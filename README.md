@@ -1,6 +1,6 @@
 # Serving a SweetHome file
 
-See the result: https://hkienle.github.io/ose-sh2/wall48-9ft-left_corner/viewHome.html
+View the result: https://hkienle.github.io/ose-sh2/wall48-9ft-left_corner/viewHome.html
 
 - Install *Export to HTML5 plug-in*: http://www.sweethome3d.com/support/forum/viewthread_thread,6708
 - Export model in SweetHome: Tools > Export to HTML5. This creates a ZIP file.
@@ -11,3 +11,6 @@ See the result: https://hkienle.github.io/ose-sh2/wall48-9ft-left_corner/viewHom
   - Branch: `master`
   - Folder: `/ (root)`
 - URL: https://USERNAME.github.io/REPOSITORYNAME/PATH/viewHome.html
+
+## Embedding with iframe
+The served file can be embedded in and iframe. This is demonstrated with the `index.html` file. View the result: https://hkienle.github.io/ose-sh2/
